@@ -6,3 +6,4 @@ for i in range(len(lst)):
     print(i)
   else:
     continue
+print('if you see number 2 before this massage, this good')
